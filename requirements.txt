@@ -1,0 +1,6 @@
+flask==2.3.2
+transformers==4.40.0
+# pinned to torch==2.1.0 to be compatible with torchvision==0.16.0
+torch==2.1.0
+torchvision==0.16.0
+Pillow==9.5.0
