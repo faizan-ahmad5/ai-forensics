@@ -1,0 +1,13 @@
+{
+  "name": "ai-detector-vercel-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "node-fetch": "^3.3.1"
+  },
+  "type": "module"
+}

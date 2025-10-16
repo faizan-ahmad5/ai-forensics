@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "api/detect.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/api/detect", "dest": "/api/detect.js" }
+  ]
+}
