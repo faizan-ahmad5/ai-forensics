@@ -68,8 +68,4 @@ AI Forensics is a web-based application that allows users to determine whether a
 
 MIT License © 2025 [Faizan Ahmad](https://github.com/faizan-ahmad5)
 
----
 
-If you want, I can also **write a super-clean short version for the README** that looks modern and “GitHub-professional” while keeping all critical info for users.
-
-Do you want me to do that?
